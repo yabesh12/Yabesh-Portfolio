@@ -1,0 +1,1 @@
+web: gunicorn yabesh_portfolio.wsgi 
